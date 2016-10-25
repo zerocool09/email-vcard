@@ -1,0 +1,7 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Gump;Forrest;Mr. 
+FN:Forrest Gump
+EMAIL;TYPE=PREF,INTERNET:forrestgump@example.com
+REV:2008-04-24T19:52:43Z
+END:VCARD

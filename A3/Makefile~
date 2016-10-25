@@ -1,0 +1,15 @@
+all: vcftool
+	gcc -I/usr/include/python3.2 -fPIC -c -Wall -std=c99 -g vcfextension.c vcutil.c vcftool.c
+	gcc -shared vcfextension.o vcutil.o vcftool.o -o Vcf.so
+	chmod +x xvcf.py
+	./xvcf.py
+
+vcftool: vcard
+	gcc -std=c99 vcftool.o vcutil.o iso3166-2_CountryCodes.o -o vcftool
+
+vcard:
+	gcc -Wall -std=c99 -DNDEBUG -g -lm vcftool.c vcutil.c iso3166-2_CountryCodes.c -c
+
+clean:
+	rm *.o
+	rm vcftool

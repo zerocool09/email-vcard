@@ -1,0 +1,21 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Gump;Forrest;Mr. 
+FN:Forrest Gump
+ORG:Bubba Gump Shrimp Co.
+GEO:39.95;-75.1667
+TITLE:Shrimp Man
+PHOTO;VALUE=URL;TYPE=GIF;VALUE=BOOM:http://www.example.com/dir_photos/my_photo.gif
+PHOTO;VALUE=URL;TYPE=GIF:http://www.example.com/dir_photos/my_photo.gif
+TEL;TYPE=WORK,VOICE:(111) 555-1212
+TEL;TYPE=HOME,VOICE:(404) 555-1212
+URL;TYPE=HOME:http://www.nyowaku.ca
+ADR;TYPE=WORK:;;100 Waters Edge;Baytown;LA;30314;United States of America
+LABEL;TYPE=WORK:100 Waters Edge\nBaytown, LA 30314\nUnited States of America
+ADR;TYPE=HOME:;;42 Plantation St.;Baytown;LA;30314;United States of America
+URL;TYPE=HOME:http://www.nyowaku.ca
+LABEL;TYPE=HOME:42 Plantation St.\nBaytown, LA 30314\nUnited States of America
+EMAIL;TYPE=PREF,INTERNET:forrestgump@example.com
+GEO:39.95;-75.1667
+REV:2008-04-24T19:52:43Z
+END:VCARD

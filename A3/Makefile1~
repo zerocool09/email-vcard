@@ -1,0 +1,9 @@
+all: vcftool.o vcutil.o iso3166-2_CountryCodes.o
+	gcc -Wall -std=c99 vcutil.o vcftool.o iso3166-2_CountryCodes.o -g -DNDEBUG -save-temps -o vcftool
+	gcc -I/usr/include/python3.2 -fPIC -c -Wall -std=c99 -g vcfextension.c vcutil.c
+	gcc -shared vcfextension.o vcutil.o -o Vcf.so
+	chmod +x xvcf.py
+	./xvcf.py
+clean:
+	rm *.o
+	rm vcftool

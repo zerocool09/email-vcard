@@ -1,0 +1,261 @@
+BEGIN:VCARD
+VERSION:3.0
+N:gump;forrest;Mr.;;
+FN:Forrest Gump
+ORG:Bubba Gump Shrimp Co.
+TITLE:Shrimp Man
+PHOTO;VALUE=URL;TYPE=GIF:http://www.example.com/dir_photos/my_photo1.gif
+TEL;TYPE=WORK,VOICE:(111) 555-1212
+TEL;TYPE=HOME,VOICE:(404) 555-1212
+ADR;TYPE=WORK:;;100 Waters Edge;Baytown;California;30314;United States
+LABEL;TYPE=WORK:100 Waters Edge\nBaytown, LA 30314\nUnited States of America
+ADR;TYPE=HOME:;;42 Plantation St.;Baytown;LA;30314;United States of America
+LABEL;TYPE=HOME:42 Plantation St.\nBaytown, LA 30314\nUnited States of America
+EMAIL;TYPE=PREF,INTERNET:forrestgump@example.com
+REV:2008-04-24T19:52:43Z
+GEO:43.5639;110.1961
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+N;CHARSET=UTF-8:Zachlifinikis;Martin
+FN;CHARSET=UTF-8:Martin Zachlifinikis
+ORG;CHARSET=UTF-8:Syngenta Crop Protection Canada\, Inc.;
+ADR;TYPE=WORK,POSTAL;CHARSET=UTF-8:;;1122 Gordon St;Guelph;Ontario;N1F L4M;CA
+TEL;TYPE=WORK,VOICE:519-837-5532
+EMAIL;TYPE=PREF,INTERNET:Wheatburn@sympatico.ca
+TITLE;CHARSET=UTF-8:Programmer and Data Analyst
+NOTE;CHARSET=UTF-8:working nearby as of Aug/07
+GEO:-43.5639;-110.1961
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+N;CHARSET=UTF-8:Wheatburn;
+FN;CHARSET=UTF-8:Martin Wheatburn
+ORG;CHARSET=UTF-8:Syngenta Crop Protection Canada\, Inc.;
+ADR;TYPE=WORK,POSTAL;CHARSET=UTF-8:;;1122 Gordon St;Guelph;ON;N1F L4M;CA
+URL;TYPE=HOME:http://www.nyowaku.ca
+TEL;TYPE=WORK,VOICE:519-837-5532
+EMAIL;TYPE=PREF,INTERNET:Wheatburn@sympatico.ca
+TITLE;CHARSET=UTF-8:Programmer and Data Analyst
+NOTE;CHARSET=UTF-8:working nearby as of Aug/07
+GEO:-43.5639,-110.1961
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+N;CHARSET=UTF-8:Short;Martin
+FN;CHARSET=UTF-8:Martin Short
+ORG;CHARSET=UTF-8:Syngenta Crop Protection Canada\, Inc.;
+ADR;TYPE=WORK,POSTAL;CHARSET=UTF-8:;;biz park?;Guelph;;;
+TEL;TYPE=WORK,VOICE:519-837-5532
+EMAIL;TYPE=PREF,INTERNET:Wheatburn@sympatico.ca
+TITLE;CHARSET=UTF-8:Programmer and Data Analyst
+GEO:39.950000;-75.166700
+NOTE;CHARSET=UTF-8:working nearby as of Aug/07
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+N;CHARSET=UTF-8:Short;Martin
+FN;CHARSET=UTF-8:Martin Short
+ORG;CHARSET=UTF-8:Syngenta Crop Protection Canada\, Inc.;
+ADR;TYPE=WORK,POSTAL;CHARSET=UTF-8:;;biz park?;Guelph;;;
+TEL;TYPE=WORK,VOICE:519-837-5532
+EMAIL;TYPE=PREF,INTERNET:Wheatburn@sympatico.ca
+TITLE;CHARSET=UTF-8:Programmer and Data Analyst
+GEO:39.950000;-75.166700
+NOTE;CHARSET=UTF-8:working nearby as of Aug/07
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+N:Plump;Forrest;Mr.
+FN:Forrest Plump
+ORG:Bubba Plump Co.
+TITLE:Plump Man
+PHOTO;VALUE=URL;TYPE=GIF:http://www.example.com/dir_photos/my_photo2.gif
+TEL;TYPE=WORK,VOICE:(111) 555-1212
+TEL;TYPE=HOME,VOICE:(404) 555-1212
+ADR;TYPE=WORK:;;100 Waters Edge;Baytown;LA;30314;United States of America
+LABEL;TYPE=WORK:100 Waters Edge\nBaytown, LA 30314\nUnited States of America
+ADR;TYPE=HOME:;;42 Plantation St.;Baytown;LA;30314;United States of America
+LABEL;TYPE=HOME:42 Plantation St.\nBaytown, LA 30314\nUnited States of America
+EMAIL;TYPE=PREF,INTERNET:forrestgump@example.com
+REV:2008-04-24T19:52:43Z
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+N:GUMP;;Mr.
+FN:Forrest 
+ORG:Bubba Shrimp Co.
+TITLE:Man
+PHOTO;VALUE=URL;TYPE=GIF:http://www.example.com/dir_photos/my_photo3.gif
+TEL;TYPE=WORK,VOICE:(111) 555-1212
+TEL;TYPE=HOME,VOICE:(404) 555-1212
+ADR;TYPE=WORK:;;100 Waters Edge;Baytown;LA;30314;United States of America
+LABEL;TYPE=WORK:100 Waters Edge\nBaytown, LA 30314\nUnited States of America
+ADR;TYPE=HOME:;;42 Plantation St.;Baytown;LA;30314;United States of America
+LABEL;TYPE=HOME:42 Plantation St.\nBaytown, LA 30314\nUnited States of America
+GEO:-90;-180
+EMAIL;TYPE=PREF,INTERNET:forrestgump@example.com
+REV:2008-04-24T19:52:43Z
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+FN:Tenyaso Wimyoryu
+N:Wosaryuya;N;Cho;;
+EMAIL;TYPE=HOME:shishun@ryo.ca
+EMAIL;TYPE=HOME:sechuchufuma@myashomi.org
+TEL;TYPE=CELL:1 (283) 114-4029
+ADR;TYPE=HOME:;;691 Nwechiike St.\nMunyu, Nikohoanya\nPacifica\nT1R 6L7;;;;
+ORG:Fuse Inc.
+TITLE:Kerikyu
+BDAY:1942-02-11
+URL;TYPE=HOME:http://www.tayomako.us
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+FN:Nyuhyawiosu Chimyame
+N:Mo;U;Tenyukara;;
+EMAIL;TYPE=INTERNET:akawama@kurukyo.com
+EMAIL;TYPE=INTERNET:soho@metosa.ca
+EMAIL;TYPE=INTERNET:se@hyu.net
+NOTE:Richaka totoya
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+FN:Ru Myo
+N:Mashuchikyuku;X;Fuchanku;;
+NICKNAME:Runachonu
+EMAIL;TYPE=INTERNET:ni@hyameke.us
+EMAIL;TYPE=INTERNET:fuhyo@mametare.org
+EMAIL;TYPE=INTERNET:inotomo@wa.net
+BDAY:1948-02-27
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+FN:Ra Hyusane
+N:Miwekyu;V;Namyukya;;
+NICKNAME:Semo
+EMAIL;TYPE=INTERNET:nyana@ta.co.uk
+EMAIL;TYPE=INTERNET:hyorohyakere@wi.co.uk
+BDAY:1953-10-05
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+FN:Niranuryu Myafurenyokya
+N:Kinochokao;I;Musaetsu;;
+EMAIL;TYPE=INTERNET:kumi@ryo.us
+EMAIL;TYPE=INTERNET:myahoryumyu@choshoryomo.net
+EMAIL;TYPE=INTERNET:sawihihyomya@hone.co.uk
+EMAIL;TYPE=INTERNET:heke@yose.co.uk
+X-GTALK:shayorakyu@shumune.co.uk
+ADR;TYPE=HOME:;;234 Sasa St.\nRya, Sekyo\nPacifica\nZ3L 5T8;;;;
+BDAY:1940-11-30
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+FN:Eshato Ha
+N:Ru;Q;Myachishotee;;
+EMAIL;TYPE=INTERNET:fuyohohasa@mya.ca
+ORG:Ryomyaro Inc.
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+FN:Chakuhi Ha
+N:Shashamucha;Z;To;;
+EMAIL;TYPE=INTERNET:yurochuri@kumyu.net
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+FN:Chuwiteremya Kochomyosene
+N:Komi;Y;Karyotamya;;
+NICKNAME:Ne
+EMAIL;TYPE=INTERNET:hohoko@te.net
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+FN:Ko Shakyocha
+N:Nimimikyawe;Y;Ne;;
+EMAIL;TYPE=INTERNET:yuya@ku.ca
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+FN:Karyo Shu
+N:Reko;S;Ru;;
+EMAIL;TYPE=INTERNET:yatashami@muchahyorashi.ca
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+FN:Shinyochu O
+N:Nyume;A;Romo;;
+EMAIL;TYPE=INTERNET:wefuamu@nyuraseyu.co.uk
+EMAIL;TYPE=WORK:ko@mufunyo.net
+EMAIL;TYPE=INTERNET:hiwon@ko.ca
+ORG:Yasonaro Inc.
+TITLE:Naryu
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+FN:Chohe Ka
+N:Nashuhyo;V;Muke;;
+EMAIL;TYPE=INTERNET:chinyusasahyu@sho.ca
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+FN:Nyahakya Hikishamaka
+N:Chasu;E;Wihonnya;;
+EMAIL;TYPE=INTERNET:myumi@hyoroku.org
+EMAIL;TYPE=INTERNET:uneruwohyu@nchamyu.co.uk
+NOTE:Choomaryarya myoshasu
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+FN:Yarawara Shicharyami
+N:Shikuhiwonyu;S;Ukeromi;;
+EMAIL;TYPE=INTERNET:rae@niryo.org
+EMAIL;TYPE=INTERNET:yutsusumyu@na.net
+NOTE:Mirakyusha mya
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+FN:Tohisha Hemakuryoryu
+N:Nekyowesorya;V;Rachuryu;;
+EMAIL;TYPE=INTERNET:yamoryu@ri.co.uk
+EMAIL;TYPE=INTERNET:kyuminonii@nyohyuresecho.co.uk
+NOTE:Te mowe
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+FN:Myukekyu Hotekeweri
+N:Tema;;Myokorya;;
+EMAIL;TYPE=INTERNET:shuryaya@nita.net
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+FN:Utohyauhi Toki
+N:no;kyosuchoshorya;;;
+EMAIL;TYPE=INTERNET:yo@tokihyu.net
+BDAY:1939-06-18
+NOTE:Myunone hoho
+END:VCARD

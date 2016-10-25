@@ -1,0 +1,15 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Gump;Forrest;Mr. 
+FN:Forrest Gump
+EMAIL;TYPE=PREF,INTERNET:forrestgump@example.com
+REV:2008-04-24T19:52:43Z
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+N:Jenkins!!!;Leeeeeerrrrroy;Mr. 
+FN:Leroy Jenkins
+EMAIL;TYPE=PREF,INTERNET:ljenkins@jenkins.com
+REV:2010-456454651231
+END:VCARD

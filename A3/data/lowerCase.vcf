@@ -1,0 +1,16 @@
+begin:vcard
+version:3.0       
+n:gump;forrest;mr. 
+fn:forrest gump
+org:bubba gump shrimp co.
+title:shrimp man
+photo;value=url;type=gif:http://www.example.com/dir_photos/my_photo.gif
+tel;type=work,voice:(111) 555-1212
+tel;type=home,voice:(404) 555-1212
+adr;type=work:;;100 waters edge;baytown;la;30314;united states of america
+label;type=work:100 waters edge\nbaytown, la 30314\nunited states of america
+adr;type=home:;;42 plantation st.;baytown;la;30314;united states of america
+label;type=home:42 plantation st.\nbaytown, la 30314\nunited states of america
+email;type=pref,internet:forrestgump@example.com
+rev:2008-04-24t19:52:43z
+end:vcard

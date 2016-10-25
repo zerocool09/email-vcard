@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/bventres/!svn/ver/10/trunk/cis-2750-a1/data
+END
+small.vcf
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/bventres/!svn/ver/10/trunk/cis-2750-a1/data/small.vcf
+END
+wrongVer.vcf
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/bventres/!svn/ver/10/trunk/cis-2750-a1/data/wrongVer.vcf
+END
+drawing-2.vcf
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/bventres/!svn/ver/10/trunk/cis-2750-a1/data/drawing-2.vcf
+END
+badSyntax.vcf
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/bventres/!svn/ver/10/trunk/cis-2750-a1/data/badSyntax.vcf
+END
+vcard.vcf
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/bventres/!svn/ver/10/trunk/cis-2750-a1/data/vcard.vcf
+END
+noFN.vcf
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/bventres/!svn/ver/10/trunk/cis-2750-a1/data/noFN.vcf
+END
+noending.vcf
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/bventres/!svn/ver/10/trunk/cis-2750-a1/data/noending.vcf
+END
+vcard2.vcf
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/bventres/!svn/ver/10/trunk/cis-2750-a1/data/vcard2.vcf
+END
+lowerCase.vcf
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/bventres/!svn/ver/10/trunk/cis-2750-a1/data/lowerCase.vcf
+END
